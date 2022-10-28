@@ -1,0 +1,38 @@
+@charset 'UTF-8';
+
+body{
+    background-color: rgba(255, 99, 71, 0.712);
+    font: normal 15pt Arial ;
+}
+
+header{
+    color: whitesmoke;
+    text-align: center;
+}
+
+section{
+    background-color: whitesmoke;
+    border-radius: 15px;
+    padding: 15px;
+    margin: auto;
+    width: 550px;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.342);
+    
+}
+
+footer{
+    color: whitesmoke;
+    text-align: center;
+    font-style: italic;
+}
+
+div#res{
+    background-color:rgba(245, 245, 245, 0.616);
+    border-radius: 15px;
+    height: 200px;
+    width: 535px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 2px;
+    box-shadow: 4px 3px 10px 2px rgba(0, 0, 0, 0.116);
+}
